@@ -1,13 +1,13 @@
-🚨 LIFE SAVER -AI
+##🚨 LIFE SAVER -AI
 AI-powered emergency response system for real-time crisis detection and smart resource allocation.
 
-⚙️ Features
+##⚙️ Features
 📍 Live Location Tracking → Finds nearest hospital / ambulance
 🤖 ML Model → Predicts severity (Critical / Moderate / Low)
 🚑 Smart Allocation → Assign ambulance, hospital, volunteers
 📊 Dashboard → Real-time crisis map
 🧑‍🤝‍🧑 Volunteer Matching → Nearby alerts
-🛠️ Tech Stack
+##🛠️ Tech Stack
 Streamlit
 Python
 Scikit-learn
