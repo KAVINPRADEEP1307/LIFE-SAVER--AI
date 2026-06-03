@@ -1,4 +1,4 @@
-## 🚨 VeriGuard AI
+## 🚨 life saver AI
 
 AI-powered emergency response system for real-time crisis detection and smart resource allocation.
 
