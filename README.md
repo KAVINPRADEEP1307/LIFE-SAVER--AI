@@ -8,14 +8,14 @@ Delays in emergency response and resource allocation can increase the risk of fa
 
 ## 🎯 Project Objectives
 
-🚨 Enable fast and intelligent emergency response using AI.
-📍 Identify the exact accident/emergency location in real time.
-🧠 Analyze incident data and estimate emergency severity levels.
-🚑 Optimize ambulance dispatch by selecting the nearest available unit.
-🏥 Assist hospitals in preparing resources before patient arrival.
-📡 Provide real-time communication and updates during emergencies.
-⚡ Minimize delays in rescue operations and medical assistance.
-❤️ Enhance public safety and improve survival rates through smart
+- 🚨 Enable fast and intelligent emergency response using AI.
+- 📍 Identify the exact accident/emergency location in real time.
+- 🧠 Analyze incident data and estimate emergency severity levels.
+- 🚑 Optimize ambulance dispatch by selecting the nearest available unit.
+- 🏥 Assist hospitals in preparing resources before patient arrival.
+- 📡 Provide real-time communication and updates during emergencies.
+- ⚡ Minimize delays in rescue operations and medical assistance.
+- ❤️ Enhance public safety and improve survival rates through smart
 
 ## ⚙️ Features
 
