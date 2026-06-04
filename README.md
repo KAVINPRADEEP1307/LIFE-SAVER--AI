@@ -2,7 +2,7 @@
 
 AI-powered emergency response system for real-time crisis detection and smart resource allocation.
 
-##🚑 Problem Statement
+## 🚑 Problem Statement
 
 Delays in emergency response and resource allocation can increase the risk of fatalities. Life Saver AI uses AI and real-time location tracking to provide faster and smarter emergency assi
 
