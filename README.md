@@ -17,13 +17,22 @@ Delays in emergency response and resource allocation can increase the risk of fa
 - ⚡ Minimize delays in rescue operations and medical assistance.
 - ❤️ Enhance public safety and improve survival rates through smart
 
-## ⚙️ Features
+## ⚙️(module identification)Features
 
 - 📍 Live Location Tracking → Finds nearest hospital / ambulance  
 - 🤖 ML Model → Predicts severity (Critical / Moderate / Low)  
 - 🚑 Smart Allocation → Assign ambulance, hospital, volunteers  
 - 📊 Dashboard → Real-time crisis map  
-- 🧑‍🤝‍🧑 Volunteer Matching → Nearby alerts  
+- 🧑‍🤝‍🧑 Volunteer Matching → Nearby alerts
+
+ ##  👤 User Identification (Data Used)
+-User Name
+-Mobile Number
+-Live Location (GPS)
+-Emergency Contact Number
+-Age
+-Gender
+-Medical Condition / Injury Details
 
 ## 🛠️ Tech Stack
 
